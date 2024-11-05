@@ -1,0 +1,26 @@
+{
+  "LogToFile": true,
+  "PostToServer": true,
+  "ServerURL": "https://yourserver.com/alert",
+  "BanIP": true,
+  "BanDuration": 10,
+  "logfile":"LogFile.txt",
+  "PortsToMonitor": [
+    445,
+    135,
+    139,
+    5985,
+    3389,
+    22,
+    1433,
+    3306,
+    5900,
+    1723,
+    8000,
+    8080,
+    3268,
+    389,
+    636,
+    21
+  ]
+}

@@ -1,0 +1,49 @@
+2024/11/05 22:26:24 main.go:268: Port 445 is already in use by a legitimate service. Skipping honeypot setup for this port.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 135.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 139.
+2024/11/05 22:26:24 main.go:184: Started listening on port 135 as honeypot.
+2024/11/05 22:26:24 main.go:184: Started listening on port 139 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 5985.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 3389.
+2024/11/05 22:26:24 main.go:184: Started listening on port 5985 as honeypot.
+2024/11/05 22:26:24 main.go:184: Started listening on port 3389 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 22.
+2024/11/05 22:26:24 main.go:184: Started listening on port 22 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 1433.
+2024/11/05 22:26:24 main.go:184: Started listening on port 1433 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 3306.
+2024/11/05 22:26:24 main.go:184: Started listening on port 3306 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 5900.
+2024/11/05 22:26:24 main.go:184: Started listening on port 5900 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 1723.
+2024/11/05 22:26:24 main.go:184: Started listening on port 1723 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 8000.
+2024/11/05 22:26:24 main.go:184: Started listening on port 8000 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 8080.
+2024/11/05 22:26:24 main.go:184: Started listening on port 8080 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 3268.
+2024/11/05 22:26:24 main.go:184: Started listening on port 3268 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 389.
+2024/11/05 22:26:24 main.go:184: Started listening on port 389 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 636.
+2024/11/05 22:26:24 main.go:184: Started listening on port 636 as honeypot.
+2024/11/05 22:26:24 main.go:266: Started honeypot on port 21.
+2024/11/05 22:26:24 main.go:272: Honeypot is running. Press Ctrl+C to stop.
+2024/11/05 22:26:24 main.go:184: Started listening on port 21 as honeypot.
+2024/11/05 22:42:47 main.go:276: Shutting down honeypot...
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 135.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 1723.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 22.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 636.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 5985.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 389.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 5900.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 3268.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 8080.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 139.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 8000.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 3306.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 1433.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 21.
+2024/11/05 22:42:47 main.go:202: Stopping listener on port 3389.
+2024/11/05 22:42:47 main.go:284: Honeypot stopped.
